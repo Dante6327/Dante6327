@@ -22,10 +22,16 @@ Please come visit my GitHub frequently.😉
 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
+## blog
+
+<a href="https://velog.io/@jin_jin_dev"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+
 ## Abuout Me
 
 <a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Dante6327&theme=material-palenight&show_icons=true&include_all_commits=true&hide_border=true" alt="Dante6327's github stats" /></a>
 <a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante6327&theme=material-palenight&layout=compact&hide_border=true" /></a>
+
+
 
 <!--
 **Dante6327/Dante6327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
