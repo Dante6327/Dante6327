@@ -31,7 +31,7 @@ Please come visit my GitHub frequently.😉
 <a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Dante6327&theme=slateorange&show_icons=true&include_all_commits=true&hide_border=true" alt="Dante6327's github stats" /></a>
 
 
-<a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante6327&layout=compact&hide_border=true&theme=slateorange /></a>
+<a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante6327&layout=compact&hide_border=true&theme=slateorange" /></a>
 
 <!--
 **Dante6327/Dante6327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
