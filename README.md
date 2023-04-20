@@ -29,8 +29,6 @@ Please come visit my GitHub frequently.😉
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
 <a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Dante6327&theme=slateorange&show_icons=true&include_all_commits=true&hide_border=true" alt="Dante6327's github stats" /></a>
-
-
 <a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante6327&layout=compact&hide_border=true&theme=slateorange" /></a>
 
 <!--
