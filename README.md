@@ -2,10 +2,10 @@
 
 ---
 
-🙌 Hello!!
-I'm web developer using react. 😎
-sometimes I develop using svelte. but I prefer react. 👍
+## 🙌 Intro!!
+Hello!! I'm web developer using react. 😎
 
+sometimes I develop using svelte. but I prefer react. 👍
 
 Please come visit my GitHub frequently.😉
 
