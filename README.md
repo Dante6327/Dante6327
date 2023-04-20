@@ -15,7 +15,7 @@ Please come visit my GitHub frequently.😉
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
 
 
-## 🐱‍👤convention**
+## 🐱‍👤convention
 
 <img src="https://img.shields.io/badge/prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/> <img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
 
@@ -30,7 +30,7 @@ Please come visit my GitHub frequently.😉
 <a href="https://velog.io/@jin_jin_dev"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 
-## 👀buout Me
+## 👀Abuout Me
 
 <a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Dante6327&theme=material-palenight&show_icons=true&include_all_commits=true&hide_border=true" alt="Dante6327's github stats" /></a>
 <a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante6327&theme=material-palenight&layout=compact&hide_border=true" /></a>
