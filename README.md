@@ -28,6 +28,8 @@ Please come visit my GitHub frequently.😉
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
+**my-stats**
+<a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Dante6327&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="Dante6327's github stats" /></a>
 
 <!--
 **Dante6327/Dante6327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
