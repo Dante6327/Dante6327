@@ -9,34 +9,20 @@ Please come visit my GitHub frequently.😉
 
 ## 🐱‍🐉Skills
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
-<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/recoil-764ABC?style=flat-square&logo=recoil&logoColor=white"/>
-<img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/><img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/><img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
 
 **extension**
 
-<img src="https://img.shields.io/badge/prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
-<img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
+<img src="https://img.shields.io/badge/prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/><img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
 
 **version manager**
 
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 
 **project manage tool**
 
-<img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 **communication**
 
