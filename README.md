@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Welcome%20to%20my%20repository%20👋&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Welcome%20to%20my%20repository%20👋&fontSize=40)
 
 🙌 Hello!!
 I'm web developer using react. 😎
