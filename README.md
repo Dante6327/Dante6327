@@ -4,7 +4,7 @@
 
 ## 🙌 Intro!!
 안녕하세요.
-개발자 김진평입니다.
+닷넷 개발자 김진평입니다.
 
 2020년 이커머스 솔루션 개발팀에 입사하여 고객들께 좋은 경험을 선사하고자 애쓰고 있습니다.  
 현재는 (주)하고하우스에서 닷넷 웹개발을 하며 즐겁게 일하고 있습니다.
@@ -28,14 +28,6 @@
 ## 🌹 blog
 티스토리 : https://dante6327.tistory.com/  
 velog : https://velog.io/@jin_jin_dev
-
-
-## 👀 Abuout Me
-
-<a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Dante6327&theme=material-palenight&show_icons=true&include_all_commits=true&hide_border=true" alt="Dante6327's github stats" /></a>
-<a href="https://github.com/Dante6327"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante6327&theme=material-palenight&layout=compact&hide_border=true" /></a>
-
-
 
 <!--
 **Dante6327/Dante6327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
